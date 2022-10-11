@@ -6,7 +6,6 @@ constructor(props){
     this.state={
          name:'Paresh',
          city:'Pune',
-    
     }
 }
 handlechange=()=>{
